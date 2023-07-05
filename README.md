@@ -1,5 +1,5 @@
-# Play.Frontend
-React based frontend for the Play Economy system. 
+# QPlay.Frontend
+React based frontend for the QPlay system. 
 
 ## Prerequisites
 * [Latest Node.JS LTS version (64 bit)](https://nodejs.org/en/download)
